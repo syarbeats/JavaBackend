@@ -1,0 +1,4 @@
+com\backend\controller\DomisiliServicesTesting.class
+com\backend\controller\pasien\RegistrasiPasienControllerTest.class
+com\backend\controller\domisili\DomisiliControllerTest.class
+com\backend\controller\RegistrasiPasienServicesTesting.class

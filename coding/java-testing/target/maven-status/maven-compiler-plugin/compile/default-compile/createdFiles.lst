@@ -1,0 +1,9 @@
+com\backend\controller\pasien\RegistrasiPasienController.class
+com\backend\model\dao\PasienDAO.class
+com\backend\controller\domisili\DomisiliController.class
+com\backend\hibernate\SessionUtil.class
+com\backend\model\Kelurahan.class
+com\backend\service\DomisiliServices.class
+com\backend\model\dao\KelurahanDAO.class
+com\backend\model\Pasien.class
+com\backend\service\RegistrasiPasienServices.class
